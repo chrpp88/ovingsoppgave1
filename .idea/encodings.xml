@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/del1/js/ColorPoint1.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/HelloCanvas.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/HelloPoint1.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/HelloPoint2.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/HelloTriangle.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/HelloTriangle_cpp.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/Kube.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/Kube2.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/MultiPoint.js" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/del1/js/TegnRektangel.js" charset="windows-1252" />
+  </component>
+</project>
